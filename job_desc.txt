@@ -1,0 +1,66 @@
+Senior AI/ML Engineer 
+United States · Reposted 4 days ago · Over 100 applicants
+
+ $110K/yr - $180K/yr
+Matches your job preferences, minimum pay preference is 150000.
+ Remote
+Matches your job preferences, workplace type is Remote.
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Job activity
+Application submitted
+12 hours ago
+Take the next step in your job search
+You'd be a top applicant, based on your skills, experience, and chances of hearing back
+
+
+
+Find me similar jobs
+
+How should I prepare for an interview?
+
+Tell me more about Raft
+Recommended for you
+Prepare for interviews
+Practice your answers to common interview questions and get feedback.
+People you can reach out to
+University of Massachusetts Dartmouth logo
+University of Massachusetts Dartmouth logo
+School alumni from University of Massachusetts Dartmouth
+
+Show all
+About the job
+This is a U.S. based position. All of the programs we support require U.S. citizenship to be eligible for employment. All work must be conducted within the continental U.S.
+
+Who we are:
+
+Raft (https://TeamRaft.com) is a customer-obsessed non-traditional small business with a purposeful focus on Distributed Data Systems, Platforms at Scale, and Complex Application Development, with headquarters in McLean, VA. Our range of clients includes innovative federal and public agencies leveraging design thinking, cutting-edge tech stack, and cloud-native ecosystem. We build digital solutions that impact the lives of millions of Americans.
+
+We’re looking for an experienced Senior AI/ML Engineer to support our customers and join our passionate team of high-impact problem solvers.
+
+About the role: 
+
+Raft is building a platform for the DoD the enables operators and analysts to train custom computer vision models without any machine learning experience. Built on our extensive data platform and AI Toolkit, this platform not only orchestrates entire machine learning lifecycles, but also data ingestion, enrichment, model exporting and serving, and much more. In your role as an AI/ML Engineer, you will collaborate with a cross-functional data team comprising other AI/ML Engineers, DevSecOps engineers, Front and Back-End Engineers, Product Owners, Data Engineers, Data Analysts, and Data Scientists. Your primary responsibility will be to develop machine learning models and pipelines that are integral to mission success within this computer vision platform.
+
+What we are looking for:
+
+4+ years of relevant hands-on experience 
+Proven capability in deploying machine learning models, particularly using frameworks like PyTorch
+Experience with Computer Vision 
+Strong background in software engineering with proficiency in Python
+Experience building data ingestion pipelines (i.e. ETL) 
+Experience building and maintaining machine learning pipelines
+Demonstrated ability to work independently and collaboratively in a team environment
+Excellent problem-solving skills with meticulous attention to detail
+Familiarity with scrum/agile development methodologies and DevOps tools, including Git
+Fast learner, analytical thinker, creative, hands-on, strong communication skills 
+Required to obtain Security+ certification within the first 90 days of employment
+
+Highly preferred:
+
+Active security clearance
+Experience with Satellite or Medical Imagery 
+Experience with frontier models 
+Active contributions to open-source projects or visible GitHub repositories. 
+Knowledge of container orchestration systems, particularly Kubernetes

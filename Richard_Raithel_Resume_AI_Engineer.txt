@@ -1,0 +1,57 @@
+﻿Richard Raithel
+AI Engineer
+	East Taunton, MA
+508.463.7424
+rraithel@gmail.com 
+	EXPERIENCE
+Senior Data Science Engineer
+Fuchs Lubricants - Fairhaven, MA
+JANUARY 2021 - PRESENT
+* Developed AI-driven data retrieval systems using Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), significantly reducing data access times for business users.
+* Architected and deployed full-stack solutions with Django, Azure, and CosmosDB to streamline data workflows and improve reporting capabilities.
+* Built dynamic dashboards with PowerBI and Plotly Dash, enabling actionable insights for non-technical users.
+* Designed scalable data pipelines using Python, SQL, and cloud-native tools to support real-time analytics and machine learning workflows.
+Application & Test Design Engineer
+Nye Lubricants - Fairhaven, MA
+MAY 2018 - JANUARY 2021
+* Enhanced laboratory data workflows by automating processes with Python and SQL, improving efficiency and reducing manual intervention.
+* Developed software for custom test machinery, increasing operational accuracy and minimizing downtime.
+* Engineered data pipelines to process unstructured data, enabling advanced analysis and actionable insights.
+PROJECTS
+AI-Driven Data Retrieval System
+* Designed and deployed a Generative AI-powered system to streamline data retrieval and enhance accessibility for complex datasets.
+* Integrated APIs from platforms like Azure and OpenAI to ensure seamless functionality and real-time processing.
+* Conducted model evaluation and optimization to improve accuracy and scalability.
+Enterprise Data Management Platform
+* Built a modular data management platform using Azure, Django, and CosmosDB, enabling scalable and efficient data handling for R&D operations.
+* Implemented CI/CD pipelines to automate deployment and ensure robust data workflows.
+* Enhanced data visualization capabilities, empowering stakeholders to make informed decisions with real-time insights.
+	SKILLS
+* Programming & Frameworks
+* Python, Django, PyTorch, Pandas, Numpy
+* AI/ML Expertise
+Generative AI, NLP, RAG, Computer Vision
+* Data Engineering
+SQL (MySQL, PostgreSQL), NoSQL (MongoDB, CosmosDB, VectorDBs), Cloud-native pipelines
+* Cloud Platforms
+Microsoft Azure
+* Visualizations
+Plotly Dash, PowerBI
+* DevOps
+CI/CD, JIRA, Git
+LINKS
+LinkedIn
+linkedin.com/in/richard-raithel
+Portfolio
+richard-raithel.github.io
+Personal Project
+personifAI.net
+GitHub
+github.com/richard-raithel
+EDUCATION
+UMass Dartmouth
+M.S. in Data Science
+JANUARY 2019 - DECEMBER 2020
+UMass Dartmouth
+B.S. in Mechanical Engineering
+SEPTEMBER 2015 - MAY 2018
